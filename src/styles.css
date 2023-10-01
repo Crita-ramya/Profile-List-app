@@ -1,0 +1,44 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.header {
+  font-family: "Roboto";
+  color: #171c3b;
+  font-weight: bold;
+  font-size: 20px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.card img {
+  height: 45px;
+  width: 45px;
+  border-radius: 90px;
+  margin-top: 10px;
+}
+.card {
+  align-items: center;
+  background-color: rgb(97, 184, 212);
+  padding-top: 20px;
+  height: 100px;
+  width: 210px;
+  margin-top: 10px;
+}
+.col-md-9 {
+  padding-left: 20px;
+}
+.name {
+  font-family: "Roboto";
+  font-weight: normal;
+  font-size: 15px;
+  color: green;
+  padding-top: 10px;
+}
+.role {
+  font-family: "san-sarif";
+  font-size: 10px;
+}
